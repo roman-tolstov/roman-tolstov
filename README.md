@@ -1,6 +1,6 @@
 # Hi there, I'm Roman 👋
 <img src="icons.gif">
-I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity game engine.
+I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
 
 ## About me
 - 🔭 I’m currently working on a couple of pet projects and tinkering with an ECS framework
