@@ -1,6 +1,10 @@
 # Hi there, I'm Roman 👋
-<img src="icons.gif">
+<img src="rotating_icons.gif">
+I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity game engine.
 
+## About me
+- 🔭 I’m currently working on a couple of pet projects and tinkering with an ECS framework
+- 📫 How to reach me: tolstovgamedev@gmail.com
 <!--
 **roman-tolstov/roman-tolstov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
