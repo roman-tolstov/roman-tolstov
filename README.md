@@ -1,5 +1,5 @@
 # Hi there, I'm Roman 👋
-<img src="rotating_icons.gif">
+<img src="icons.gif">
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity game engine.
 
 ## About me
