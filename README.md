@@ -1,7 +1,9 @@
 # Hi there 👋
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
+
 <img src="icons.gif">
-## 
+
+#
 - 🔭 I’m currently working on a couple of pet projects and tinkering with an ECS framework
 - 📫 How to reach me: tolstovgamedev@gmail.com
 <!--
