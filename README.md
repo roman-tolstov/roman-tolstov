@@ -1,8 +1,7 @@
-# Hi there, I'm Roman 👋
-<img src="icons.gif">
+# Hi there 👋
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
-
-## About me
+<img src="icons.gif">
+## 
 - 🔭 I’m currently working on a couple of pet projects and tinkering with an ECS framework
 - 📫 How to reach me: tolstovgamedev@gmail.com
 <!--
