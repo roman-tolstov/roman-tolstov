@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 <img src="icons.gif">
 
 #
-- 🔭 I’m currently working on a couple of pet projects and tinkering with an ECS framework
+- 🔭 I’m currently working on a pet project and tinkering with an ECS framework
 - 📫 How to reach me: tolstovgamedev@gmail.com
 <!--
 **roman-tolstov/roman-tolstov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
